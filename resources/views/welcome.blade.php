@@ -9,6 +9,9 @@
 </head>
 <body>
 <div>
+    <div>
+        DZ 4.6
+    </div>
 
     <div>
         Laravel ver{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
